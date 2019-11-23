@@ -6,5 +6,8 @@ public class AA {
 		System.out.println("out push");
 		System.out.println("out clone");
 		System.out.println("out");
+		System.out.println("hot fix");
+		System.out.println("hot fix");
+		System.out.println("hot fix");
 	}
 }
